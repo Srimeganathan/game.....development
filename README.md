@@ -1,5 +1,8 @@
 # EX 10 : ANIMATION USING FLASH
 
+NAME : YASHWANTH K
+
+REG NO : 212224040369
 
 ## AIM
   
@@ -65,3 +68,9 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/7bf73737-7c93-4a15-ba69-49cd2bb6c778)
+
+## RESULT:
+
+Thus the motion tweening, shape tweening, guide layer and masking using Flash as been done and the output is verified.
