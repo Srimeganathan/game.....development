@@ -1,8 +1,8 @@
 # EX 10 : ANIMATION USING FLASH
 
-NAME : YASHWANTH K
+NAME : 
 
-REG NO : 212224040369
+REG NO : 
 
 ## AIM
   
@@ -69,7 +69,8 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/7bf73737-7c93-4a15-ba69-49cd2bb6c778)
+![image](https://github.com/user-attachments/assets/4de276b8-9d3c-4bc4-a918-7a675349a6ad)
+
 
 ## RESULT:
 
